@@ -9,7 +9,7 @@ public class Test_1 {
             xm.setNumber(2019310001);
             xm.setSex("男");
             xm.setTuition(6666);
-            xm.setSalary(1200);
+            xm.setSalary(1000);
             System.out.println("学生姓名:" + xm.getName());
             System.out.println("学生年龄:" + xm.getAge());
             System.out.println("学生编号:" + xm.getNumber());
@@ -24,7 +24,7 @@ public class Test_1 {
             xf.setNumber(2019310002);
             xf.setSex("女");
             xf.setTuition(6666);
-            xf.setSalary(1185);
+            xf.setSalary(1100);
             System.out.println("学生姓名:" + xf.getName());
             System.out.println("学生年龄:" + xf.getAge());
             System.out.println("学生编号:" + xf.getNumber());
