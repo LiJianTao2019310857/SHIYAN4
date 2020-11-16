@@ -24,7 +24,7 @@ public class Test_1 {
             xf.setNumber(2019310002);
             xf.setSex("女");
             xf.setTuition(6666);
-            xf.setSalary(1185);
+            xf.setSalary(1200);
             System.out.println("学生姓名:" + xf.getName());
             System.out.println("学生年龄:" + xf.getAge());
             System.out.println("学生编号:" + xf.getNumber());
